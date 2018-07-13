@@ -1,0 +1,16 @@
+.jumbotron-fluide{
+   background-color: rgba(50, 96, 139, 0.35);
+   height : 20em;
+   width: 100%;
+  
+}
+.menu{
+   float: right;
+   display: inline;
+  
+}
+.photo1-acceuil{
+    width: 40em;
+    height: 30em;
+    
+}
